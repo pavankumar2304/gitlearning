@@ -1,0 +1,10 @@
+{
+        "poster": "<cloudfront_url>IMF2022/jlr/resources/videos/Thumbnails/01_Intro.jpg",
+        "abs_url": "<cloudfront_url>IMF2022/jlr/resources/videos/brs/Jaguar_TCS_Sizzle_Video_V.mpd",
+        "fallback_video": [
+            {
+                "link": "<cloudfront_url>IMF2022/jlr/resources/videos/Jaguar_TCS_Sizzle_Video_V.4.mp4",
+                "type": "video/mp4"
+            }
+        ]
+}
